@@ -2,29 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The resulting signal when a continuous time periodic signal x(t) having period T, is convolved with itself is ___________",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Non-Periodic",
+        "b": "Periodic having period 2T",
+        "c": "Periodic having period T",
+        "d": "Periodic having period T/2"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -33,6 +16,40 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The convolution sum of x[n] and h[n] is given as:",
+      "answers": {
+        "a": "h[n] + x[n]",
+        "b": "h[n] * x[n]",
+        "c": "h[n] - x[n]",
+        "d": "x[n] - h[n]"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "We have two signals x[n] for – 5 ≤ n ≤ 2 and h[n] for 1 ≤ n ≤ 7 being finite duration signals. The range of their convolution is",
+      "answers": {
+        "a": "– 4 ≤ n ≤ 9",
+        "b": "– 5 ≤ n ≤ 7",
+        "c": "– 3 ≤ n ≤ 8",
+        "d": "– 3 ≤ n ≤ 6"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
