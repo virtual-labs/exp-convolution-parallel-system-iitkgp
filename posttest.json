@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "For an LTI system, it is given,x(t)=0,|t|>2 and h(t) =0, |t|>3 then, x(t)*h(t)=0 for |t|>T .The value of T is __________",
+      "answers": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "5"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "We have x(n) = {2, 3, -1, -4} & h(n) = {2,4,1}. If y (n) is convolution of x(n) & h(n), then what is the sum of the initial and final sample of y(n) ?",
+      "answers": {
+        "a": "4",
+        "b": "-4",
+        "c": "8",
+        "d": "0"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following statements concerning the LTI system is correct? 1. If the impulse response of an LTI system is periodic and non-zero, then the system is unstable. 2. the inverse of a causal LTI system is always causal. 3. the cascade connection of a non-causal LTI system with a causal one necessarily produces a non-causal system.",
+      "answers": {
+        "a": "1 only",
+        "b": "1 and 2 only",
+        "c": "3 and 2 only",
+        "d": "1 and 3 only"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Consider a continuous-time system with input x(t) and output y(t) given by y(t) = x(t)cos(t) This system is",
+      "answers": {
+        "a": "linear and time-invariant",
+        "b": "non-linear and time-invariant",
+        "c": "linear and time-varying",
+        "d": "non – linear and time-varying"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The continuous time system described by y(t) = x(t2) is",
+      "answers": {
+        "a": "causal, linear and time varying",
+        "b": "causal, non-linear and time varying",
+        "c": "non causal, non-linear and time-invariant",
+        "d": "non causal, linear and time-variant"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
